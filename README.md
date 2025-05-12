@@ -1,1 +1,4 @@
 # DataStorytelling
+By 2050, it is anticipated that global waste production will rise to 3.40 billion tons annually, a significant increase from the current 2.01 billion tons. The report "What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050" compiles extensive data on solid waste at both national and urban levels. It forecasts waste generation up to 2030 and 2050. In addition to the core metrics from waste generation to disposal, the report covers various aspects such as waste management costs, revenues, and tariffs, special waste categories, regulations, public communication, administrative and operational models, and the role of the informal sector.
+The What A Waste Global Database, initiated by the World Bank, aims to document solid waste management practices across various countries.
+The data was first published in 2018, and the original source can be accessed here: https://datacatalog.worldbank.org/dataset/what-waste-global-database
